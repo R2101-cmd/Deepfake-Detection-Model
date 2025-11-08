@@ -39,17 +39,8 @@ This project aims to build a **robust detection system** capable of distinguishi
 
 Trained and evaluated using publicly available datasets:
 
-- [FaceForensics++](https://github.com/ondyari/FaceForensics)
 - [DeepFake Detection Challenge (DFDC)](https://ai.facebook.com/datasets/dfdc)
-- [Celeb-DF](https://github.com/yuezunli/celeb-deepfakeforensics)
 
 > 🗒️ *Datasets are not included in this repository due to storage constraints.*
 
 ---
-
-## ⚙️ Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/deepfake-detection.git
-   cd deepfake-detection
